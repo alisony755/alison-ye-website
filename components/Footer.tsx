@@ -60,7 +60,7 @@ export default function Footer() {
         </a>
       </div>
 
-      <p style={{ textAlign: "center" }}>&copy; 2024 Alison Ye's Personal Website</p>
+      <p style={{ textAlign: "center" }}>&copy; 2025 Alison Ye's Personal Website</p>
     </footer>
   )
 }
