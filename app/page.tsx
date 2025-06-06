@@ -37,7 +37,6 @@ export default function Home() {
           <ExperiencesBlock />
           <ProjectsBlock />
           <MusicBlock />
-          <Footer />
         </div>
         <AccessibilityMenu
           increaseFontSize={increaseFontSize}
