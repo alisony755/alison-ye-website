@@ -439,8 +439,9 @@ body {
 }
 
 .spotify-embed {
-  width: 100%; 
-  margin: 0 auto;
+  width: 100%;
+  max-width: 640px;
+  height: 352px;
 }
 
 .spotify-embed iframe {
