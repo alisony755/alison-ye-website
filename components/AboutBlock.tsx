@@ -20,10 +20,12 @@ export default function AboutBlock() {
             or abilities.
           </p>
           <p>
-            In addition to my academic work, I am actively involved in creating opportunities for others to explore STEM
-            fields. I am a member of FirstByte, a club that offers tech workshops for high school students, helping to
-            increase diversity and representation in these fields. My dedication to both personal growth and community
-            outreach reflects my long-term goal of using my skills to make a tangible, positive impact on the world.
+          In addition to my academic work, I am actively involved in creating opportunities for others to explore STEM
+          fields. I am currently the Design Lead for ACM @ Northeastern, a computer science professional organization, 
+          where I manage social media content and branding. I am also a member of FirstByte, a Northeastern student 
+          organization that offers tech workshops for local students, helping to increase diversity and representation 
+          in these fields. My dedication to both personal growth and community outreach reflects my long-term goal of 
+          using my skills to make a tangible, positive impact on the world.
           </p>
         </div>
       </div>
