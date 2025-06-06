@@ -8,7 +8,7 @@ export default function MusicBlock() {
       <div className="block-content">
         <div className="music-container">
           <p className="music-description">
-            Some of the songs I like to listen to while coding and working on projects.
+            Some of the songs I like to listen to while coding and working on projects!
           </p>
           <div className="spotify-embed">
             <iframe
