@@ -632,19 +632,7 @@ body {
 }
 
 /* Responsive Design */
-@media (min-width: 1200px) {
-  /* Large screens (3 columns for projects/experiences) */
-  .experiences-container,
-  .projects-container {
-    grid-template-columns: repeat(3, 1fr);
-  }
-
-  .skills-list {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media (min-width: 900px) and (max-width: 1199px) {
+@media (min-width: 900px) {
   /* Medium-large screens (2 columns for projects/experiences) */
   .experiences-container,
   .projects-container {
