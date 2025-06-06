@@ -37,6 +37,7 @@ export default function Home() {
           <ExperiencesBlock />
           <ProjectsBlock />
           <MusicBlock />
+          <Footer />
         </div>
         <AccessibilityMenu
           increaseFontSize={increaseFontSize}
@@ -44,7 +45,6 @@ export default function Home() {
           toggleDyslexiaFriendlyFont={toggleDyslexiaFriendlyFont}
           toggleHighContrastMode={toggleHighContrastMode}
         />
-        <Footer />
       </div>
     </div>
   )
