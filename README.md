@@ -2,7 +2,7 @@
 
 **Status:** In Progress  
 **URL:** [alisonye.netlify.app](https://alisonye.netlify.app)  
-**Last Updated:** June 2025 (updated to reflect recent changes)
+**Last Updated:** June 2025
 
 ## Overview
 

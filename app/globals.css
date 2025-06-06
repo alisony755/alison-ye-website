@@ -205,9 +205,12 @@ body {
 
 .contact-card:hover {
   background-color: #f1f0ed;
-  text-decoration: underline;
   transform: translateY(-2px);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.contact-card a:hover {
+  text-decoration: underline;
 }
 
 .contact-icon {
@@ -443,6 +446,7 @@ body {
 }
 
 .music-description {
+  text-align: left;
   font-size: 1em;
   color: #787774;
   margin-bottom: 24px;
