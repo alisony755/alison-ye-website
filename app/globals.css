@@ -14,7 +14,7 @@ body {
 
 /* Notion Page Layout */
 .notion-page {
-  max-width: 80%;
+  max-width: 90%;
   margin: 0 auto;
   padding: 0 20px;
   background-color: #ffffff;
@@ -439,15 +439,18 @@ body {
 }
 
 .spotify-embed {
-  width: 100%;
-  max-width: 640px;
-  height: 352px;
+  position: relative;
+  padding-top: 56.25%; 
+  height: 0;
+  overflow: hidden;
+  border-radius: 12px;
 }
 
 .spotify-embed iframe {
-  display: block;
+  position: absolute;
+  top: 0; left: 0;
   width: 100%;
-  height: 352px;
+  height: 100%;
   border-radius: 12px;
 }
 
