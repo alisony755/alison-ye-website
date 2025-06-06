@@ -44,8 +44,8 @@ export default function Home() {
           toggleDyslexiaFriendlyFont={toggleDyslexiaFriendlyFont}
           toggleHighContrastMode={toggleHighContrastMode}
         />
+        <Footer />
       </div>
-            <Footer />
     </div>
   )
 }
