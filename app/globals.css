@@ -686,11 +686,11 @@ body {
 
 @media (max-width: 768px) {
   .notion-page {
-    padding: 0 16px;
+    padding: 0 8px;
   }
 
   .notion-block {
-    padding: 20px;
+    padding: 16px;
   }
 
   .profile-banner {
@@ -699,7 +699,7 @@ body {
 
   .profile-image-overlay {
     top: 190px;
-    left: 20px;
+    left: 8px;
   }
 
   .profile-image-banner {
@@ -708,7 +708,7 @@ body {
   }
 
   .profile-info-banner {
-    padding: 80px 20px 24px 20px;
+    padding: 80px 8px 24px 8px;
   }
 
   .profile-name-banner {
@@ -763,7 +763,7 @@ body {
   }
 
   .profile-info-banner {
-    padding: 80px 20px 24px 20px;
+    padding: 80px 8px 24px 8px;
     text-align: center;
   }
 
@@ -796,7 +796,7 @@ body {
   }
 
   .notion-block {
-    margin-bottom: 24px;
+    margin-bottom: 12px;
   }
 
   .notion-block {
@@ -808,12 +808,12 @@ body {
   }
 
   .contact-card {
-    padding: 16px;
+    padding: 12px;
   }
 
   .experience-card,
   .project-card .project-content {
-    padding: 16px;
+    padding: 12px;
   }
 
   .profile-banner {
@@ -830,7 +830,7 @@ body {
   }
 
   .profile-info-banner {
-    padding: 70px 16px 20px 16px;
+    padding: 70px 8px 20px 8px;
   }
 }
 
