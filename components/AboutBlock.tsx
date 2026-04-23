@@ -20,6 +20,7 @@ export default function AboutBlock() {
           </p>
           <p>
           In addition to my technical work, I am the Head of Social Media for ACM @ Northeastern, where I manage branding and social media strategy. My experiences across engineering, design, and leadership reflect my goal of building meaningful, user-centered technology with real-world impact.
+          </p>
         </div>
       </div>
     </div>
