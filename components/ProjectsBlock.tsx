@@ -34,7 +34,7 @@ const ProjectCard = ({ image, imageAlt, title, link, role, dates, description, c
 export default function ProjectsBlock() {
   const projects = [
     {
-      image: "https://ibb.co/cSVb5J35",
+      image: "https://i.ibb.co/nNt32rm2/image.png",
       imageAlt: "Redesgined DAILP header",
       title: "Digital Archive of Indigenous Language Persistence (DAILP)",
       link: "https://dailp.northeastern.edu/",
@@ -45,7 +45,7 @@ export default function ProjectsBlock() {
       color: "#4ECDC4",
     },
     {
-      image: "https://ibb.co/Y7cYb6Wb",
+      image: "https://i.ibb.co/7Jn8bHzb/image.png",
       imageAlt: "Metadata editing interface for digital archival documents",
       title: "Digital Archive of Indigenous Language Persistence (DAILP)",
       link: "https://dailp.northeastern.edu/",
@@ -56,7 +56,7 @@ export default function ProjectsBlock() {
       color: "#45B7D1",
     },
     {
-      image: "https://ibb.co/mVghcywm",
+      image: "https://i.ibb.co/yc7gQk1D/image.png",
       imageAlt: "Database schema design for black sea bass analysis",
       title: "Black Sea Bass Range Shift Analysis",
       link: "",
