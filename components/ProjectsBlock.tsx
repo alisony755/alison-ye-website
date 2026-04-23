@@ -34,6 +34,50 @@ const ProjectCard = ({ image, imageAlt, title, link, role, dates, description, c
 export default function ProjectsBlock() {
   const projects = [
     {
+      image: "https://ibb.co/cSVb5J35",
+      imageAlt: "Redesgined DAILP header",
+      title: "Digital Archive of Indigenous Language Persistence (DAILP)",
+      link: "https://dailp.northeastern.edu/",
+      role: "Research Assistant",
+      dates: "January 2026 - Present",
+      description:
+        "I am contributing to the expansion of the DAILP platform by supporting the development of a scalable full-stack archival system used by external partner institutions, enabling organizations such as Western Carolina University to host and manage their own document collections using the platform’s infrastructure. I redesigned the DAILP website homepage by implementing new, reusable UI components using React and TypeScript to improve usability, structure, and overall user experience. I also presented technical work on metadata system design and editing workflows at the CDS Student Showcase, communicating architectural and implementation decisions to both technical and non-technical audiences.",
+      color: "#6C63FF",
+    },
+    {
+      image: "https://ibb.co/Y7cYb6Wb",
+      imageAlt: "Metadata editing interface for digital archival documents",
+      title: "Digital Archive of Indigenous Language Persistence (DAILP)",
+      link: "https://dailp.northeastern.edu/",
+      role: "Software Developer Co-op",
+      dates: "July 2025 - December 2025",
+      description:
+        "I worked as a full-stack developer on the DAILP platform, building and improving features for managing archival metadata across both frontend and backend systems. I implemented backend data models and database queries using SQL and Rust to support structured metadata such as keywords, formats, and other document attributes. On the frontend, I developed interactive interfaces using React and TypeScript for viewing and editing metadata, improving usability for contributors. I collaborated closely with stakeholders and other developers throughout the design process, iterating on UI and workflow decisions in Figma to ensure alignment between user needs and technical implementation.",
+      color: "#FF6B6B",
+    },
+    {
+      image: "https://s3.us-east-1.amazonaws.com/files.galaxydigital.com/4548/agency/99769.jpg?20230808202014?area=agency",
+      imageAlt: "RISE Together Logo",
+      title: "RISE Together",
+      link: "https://www.risetogethermentor.org/",
+      role: "Student Mentor",
+      dates: "June 2025 - September 2025",
+      description:
+        "I mentored first-generation students through the college application process by helping them build balanced college lists based on academic goals, financial considerations, and location preferences. I provided detailed feedback on personal statement drafts, focusing on clarity, narrative structure, and effective storytelling. I also supported students in managing application timelines by coordinating early action and scholarship deadlines and helping them stay organized throughout the admissions process.",
+      color: "#4ECDC4",
+    },
+    {
+      image: "https://ibb.co/mVghcywm",
+      imageAlt: "Database schema design for black sea bass analysis",
+      title: "Black Sea Bass Range Shift Analysis",
+      link: "",
+      role: "Team Member",
+      dates: "October 2024 - November 2024",
+      description:
+        "I collaborated with a team of students to analyze ecological changes in black sea bass populations driven by climate-induced range shifts. I helped design and implement a relational MySQL database to structure biological and environmental data, including attributes such as fish length, weight, and geographic catch location. I contributed to defining relationships between entities to enable efficient querying and analysis of population trends. I also applied normalization techniques and integrity constraints to ensure consistency, accuracy, and reliability of the dataset used for ecological analysis. Our work was later used by the Gatins Lab to support ongoing marine biology research.",
+      color: "#45B7D1",
+    },
+    {
       image: "https://i.ibb.co/wNsn96k4/image.png",
       imageAlt: "Graph predicting 2026 Medicaid spending received by top pharmaceutical companies",
       title: "Medicaid Drug Spending Analysis",
@@ -42,39 +86,6 @@ export default function ProjectsBlock() {
       dates: "January 2025 - April 2025",
       description:
         "An analysis of Medicaid drug spending from 2018 to 2022 using Python. I read in the dataset using the CMS API. In my role, I grouped and filtered the dataset to identify the top 5 pharmaceutical companies by Medicaid spending received in 2022. To forecast future trends, I applied a simple linear regression model to predict Medicaid spending from 2025 to 2026. I visualized these insights using Seaborn, Plotly, and Matplotlib to clearly communicate patterns and projections.",
-      color: "#FF6B6B",
-    },
-    {
-      image: "https://i.ibb.co/LQZtV2s/Screenshot-2025-01-13-at-10-08-38-AM.png",
-      imageAlt: "FirstByte dashboard screenshot",
-      title: "FirstByte Dashboard Design",
-      link: "https://www.figma.com/design/IgY6xr3aERfo3l0Kj7k3U2/FirstByte-Workshop-Management?node-id=0-1&p=f&t=MZm8mpnkTnXIkPSU-0",
-      role: "Software-Website Team",
-      dates: "October 2024 - Present",
-      description:
-        "A conceptual Figma layout I am designing for FirstByte's collaboration with Camp Harbor View. This dashboard will allow users to register for workshops and access the workshop materials. While the idea is still in development, my design showcases potential features such as user profiles, project dashboards, and interactive elements, designed to create a seamless experience. This mock-up was built with an eye toward user-centered design.",
-      color: "#4ECDC4",
-    },
-    {
-      image: "https://i.ibb.co/rmW5HJ2/Screenshot-2025-01-13-at-1-32-33-PM.png",
-      imageAlt: "2048 game screenshot",
-      title: "Simple 2048 Game",
-      link: "https://alisony755.github.io/2048/",
-      role: "Independent Project",
-      dates: "May 2024",
-      description:
-        "A recreation of the popular 2048 puzzle game, built using HTML, CSS, and JavaScript. This project demonstrates my front-end development skills, focusing on implementing the core mechanics of tile movement and merging. I used CSS to create smooth animations, enhancing the overall gameplay experience. The game showcases my ability to develop interactive applications with JavaScript, emphasizing clean, intuitive design and engaging user interactions.",
-      color: "#45B7D1",
-    },
-    {
-      image: "https://i.ibb.co/0JmSRBy/Screenshot-2025-01-13-at-10-10-51-AM.png",
-      imageAlt: "Digital business card screenshot",
-      title: "Digital Business Card",
-      link: "https://alisonye-card.netlify.app",
-      role: "Independent Project",
-      dates: "April 2024 - May 2024",
-      description:
-        "This digital business card is designed to resemble a command line interface, featuring interactive commands that display information about me. Using HTML, CSS, and JavaScript, the card allows users to input commands to learn more about my skills, coding languages, and contact information, offering a creative and engaging way to present my profile.",
       color: "#96CEB4",
     },
   ]
