@@ -42,7 +42,7 @@ export default function ProjectsBlock() {
       dates: "January 2026 - Present",
       description:
         "I am contributing to the expansion of the DAILP platform by supporting the development of a scalable full-stack archival system used by external partner institutions, enabling organizations such as Western Carolina University to host and manage their own document collections using the platform’s infrastructure. I redesigned the DAILP website homepage by implementing new, reusable UI components using React and TypeScript to improve usability, structure, and overall user experience. I also presented technical work on metadata system design and editing workflows at the CDS Student Showcase, communicating architectural and implementation decisions to both technical and non-technical audiences.",
-      color: "#6C63FF",
+      color: "#4ECDC4",
     },
     {
       image: "https://ibb.co/Y7cYb6Wb",
@@ -53,18 +53,7 @@ export default function ProjectsBlock() {
       dates: "July 2025 - December 2025",
       description:
         "I worked as a full-stack developer on the DAILP platform, building and improving features for managing archival metadata across both frontend and backend systems. I implemented backend data models and database queries using SQL and Rust to support structured metadata such as keywords, formats, and other document attributes. On the frontend, I developed interactive interfaces using React and TypeScript for viewing and editing metadata, improving usability for contributors. I collaborated closely with stakeholders and other developers throughout the design process, iterating on UI and workflow decisions in Figma to ensure alignment between user needs and technical implementation.",
-      color: "#FF6B6B",
-    },
-    {
-      image: "https://s3.us-east-1.amazonaws.com/files.galaxydigital.com/4548/agency/99769.jpg?20230808202014?area=agency",
-      imageAlt: "RISE Together Logo",
-      title: "RISE Together",
-      link: "https://www.risetogethermentor.org/",
-      role: "Student Mentor",
-      dates: "June 2025 - September 2025",
-      description:
-        "I mentored first-generation students through the college application process by helping them build balanced college lists based on academic goals, financial considerations, and location preferences. I provided detailed feedback on personal statement drafts, focusing on clarity, narrative structure, and effective storytelling. I also supported students in managing application timelines by coordinating early action and scholarship deadlines and helping them stay organized throughout the admissions process.",
-      color: "#4ECDC4",
+      color: "#45B7D1",
     },
     {
       image: "https://ibb.co/mVghcywm",
@@ -75,7 +64,7 @@ export default function ProjectsBlock() {
       dates: "October 2024 - November 2024",
       description:
         "I collaborated with a team of students to analyze ecological changes in black sea bass populations driven by climate-induced range shifts. I helped design and implement a relational MySQL database to structure biological and environmental data, including attributes such as fish length, weight, and geographic catch location. I contributed to defining relationships between entities to enable efficient querying and analysis of population trends. I also applied normalization techniques and integrity constraints to ensure consistency, accuracy, and reliability of the dataset used for ecological analysis. Our work was later used by the Gatins Lab to support ongoing marine biology research.",
-      color: "#45B7D1",
+      color: "#4ECDC4",
     },
     {
       image: "https://i.ibb.co/wNsn96k4/image.png",
@@ -86,7 +75,7 @@ export default function ProjectsBlock() {
       dates: "January 2025 - April 2025",
       description:
         "An analysis of Medicaid drug spending from 2018 to 2022 using Python. I read in the dataset using the CMS API. In my role, I grouped and filtered the dataset to identify the top 5 pharmaceutical companies by Medicaid spending received in 2022. To forecast future trends, I applied a simple linear regression model to predict Medicaid spending from 2025 to 2026. I visualized these insights using Seaborn, Plotly, and Matplotlib to clearly communicate patterns and projections.",
-      color: "#96CEB4",
+      color: "#45B7D1",
     },
   ]
 
