@@ -36,23 +36,23 @@ export default function ProjectsBlock() {
     {
       image: "https://i.ibb.co/nNt32rm2/image.png",
       imageAlt: "Redesgined DAILP header",
-      title: "Digital Archive of Indigenous Language Persistence (DAILP)",
+      title: "DAILP Homepage Redesign",
       link: "https://dailp.northeastern.edu/",
       role: "Research Assistant",
       dates: "January 2026 - Present",
       description:
-        "I am contributing to the expansion of the DAILP platform by supporting the development of a scalable full-stack archival system used by external partner institutions, enabling organizations such as Western Carolina University to host and manage their own document collections using the platform’s infrastructure. I redesigned the DAILP website homepage by implementing new, reusable UI components using React and TypeScript to improve usability, structure, and overall user experience. I also presented technical work on metadata system design and editing workflows at the CDS Student Showcase, communicating architectural and implementation decisions to both technical and non-technical audiences.",
+        "I redesigned the DAILP website homepage by iterating on Figma designs and implementing them in code. I developed reusable UI components using React and TypeScript, improving layout structure, maintainability, and user experience. I continuously refined the design through feedback, ensuring alignment between UX decisions and frontend implementation.",
       color: "#45B7D1",
     },
     {
       image: "https://i.ibb.co/7Jn8bHzb/image.png",
       imageAlt: "Metadata editing interface for digital archival documents",
-      title: "Digital Archive of Indigenous Language Persistence (DAILP)",
+      title: "Metadata Editing and Display",
       link: "https://dailp.northeastern.edu/",
       role: "Software Developer Co-op",
       dates: "July 2025 - December 2025",
       description:
-        "I worked as a full-stack developer on the DAILP platform, building and improving features for managing archival metadata across both frontend and backend systems. I implemented backend data models and database queries using SQL and Rust to support structured metadata such as keywords, formats, and other document attributes. On the frontend, I developed interactive interfaces using React and TypeScript for viewing and editing metadata, improving usability for contributors. I collaborated closely with stakeholders and other developers throughout the design process, iterating on UI and workflow decisions in Figma to ensure alignment between user needs and technical implementation.",
+        "I worked as a full-stack developer on the DAILP platform, building and improving features for managing archival metadata across both frontend and backend systems. I implemented backend data models and database queries using SQL and Rust to support structured metadata such as keywords, formats, and other document attributes. On the frontend, I developed interactive interfaces using React and TypeScript for displaying and editing metadata, improving usability for contributors. I collaborated closely with stakeholders and other developers throughout the design process, iterating on UI and workflow decisions in Figma to ensure alignment between user needs and technical implementation.",
       color: "#FF6B6B",
     },
     {
