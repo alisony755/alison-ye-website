@@ -39,7 +39,7 @@ export default function ExperiencesBlock() {
       role: "Research Assistant",
       dates: "January 2026 - Present",
       description:
-        "I am contributing to the expansion of the DAILP platform to support external partners, enabling institutions such as Western Carolina University to use the platform’s infrastructure to host and manage their own document collections. I redesigned the website homepage and implemented new UI components using React and TypeScript to improve usability and accessibility. I also presented system architecture decisions and metadata editing workflows at the CDS Student Showcase.",
+        "I am contributing to the expansion of the DAILP platform to support external partners, enabling institutions such as Western Carolina University to use the platform’s infrastructure to host and manage their own document collections. I redesigned the website homepage and implemented new UI components using React and TypeScript to improve usability and accessibility. I also my presented system architecture decisions and editing workflows from my metadata display and editing implementation at the CDS Student Showcase.",
      color: "#4ECDC4",
      },
     {
