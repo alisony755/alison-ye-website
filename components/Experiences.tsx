@@ -30,26 +30,26 @@ const ExperienceCard = ({ logo, logoAlt, title, link, role, dates, description }
 
 export default function Experiences() {
   const experiences = [
-  {
-    logo: "https://media.licdn.com/dms/image/v2/C4D0BAQFiepLgClowqQ/company-logo_400_400/company-logo_400_400/0/1650466196365/dailp_logo?e=1778716800&v=beta&t=ItxhwNxMfcCBaTncBXJXJzDZWevDZCHXs3mxJWTnA3k",
-    logoAlt: "DAILP logo",
-    title: "Digital Archive of Indigenous Language Persistence (DAILP)",
-    link: "https://dailp.northeastern.edu/",
-    role: "Research Assistant",
-    dates: "January 2026 - Present",
-    description:
-      "I am contributing to the expansion of the DAILP platform to support external partners, enabling institutions such as Western Carolina University to use the platform’s infrastructure to host and manage their own document collections. I redesigned the website homepage and implemented new UI components using React and TypeScript to improve usability and accessibility. I also presented system architecture decisions and metadata editing workflows at the CDS Student Showcase.",
-  },
-  {
-    logo: "https://media.licdn.com/dms/image/v2/C4D0BAQFiepLgClowqQ/company-logo_400_400/company-logo_400_400/0/1650466196365/dailp_logo?e=1778716800&v=beta&t=ItxhwNxMfcCBaTncBXJXJzDZWevDZCHXs3mxJWTnA3k",
-    logoAlt: "DAILP logo",
-    title: "Digital Archive of Indigenous Language Persistence (DAILP)",
-    link: "https://dailp.northeastern.edu/",
-    role: "Software Developer Co-op",
-    dates: "July 2025 - December 2025",
-    description:
-      "During my co-op, I developed full-stack features for managing archival metadata by building and optimizing database queries using Rust and SQL. I implemented archival-standard, interactive user interfaces with React and TypeScript for displaying and editing metadata, improving the usability of document management workflows. I collaborated closely with stakeholders and developers, iterating on product design in Figma to align technical implementation with user and organizational needs.",
-  }
+    {
+      logo: "https://media.licdn.com/dms/image/v2/C4D0BAQFiepLgClowqQ/company-logo_400_400/company-logo_400_400/0/1650466196365/dailp_logo?e=1778716800&v=beta&t=ItxhwNxMfcCBaTncBXJXJzDZWevDZCHXs3mxJWTnA3k",
+      logoAlt: "DAILP logo",
+      title: "Digital Archive of Indigenous Language Persistence (DAILP)",
+      link: "https://dailp.northeastern.edu/",
+      role: "Research Assistant",
+      dates: "January 2026 - Present",
+      description:
+        "I am contributing to the expansion of the DAILP platform to support external partners, enabling institutions such as Western Carolina University to use the platform’s infrastructure to host and manage their own document collections. I redesigned the website homepage and implemented new UI components using React and TypeScript to improve usability and accessibility. I also presented system architecture decisions and metadata editing workflows at the CDS Student Showcase.",
+    },
+    {
+      logo: "https://media.licdn.com/dms/image/v2/C4D0BAQFiepLgClowqQ/company-logo_400_400/company-logo_400_400/0/1650466196365/dailp_logo?e=1778716800&v=beta&t=ItxhwNxMfcCBaTncBXJXJzDZWevDZCHXs3mxJWTnA3k",
+      logoAlt: "DAILP logo",
+      title: "Digital Archive of Indigenous Language Persistence (DAILP)",
+      link: "https://dailp.northeastern.edu/",
+      role: "Software Developer Co-op",
+      dates: "July 2025 - December 2025",
+      description:
+        "During my co-op, I developed full-stack features for managing archival metadata by building and optimizing database queries using Rust and SQL. I implemented archival-standard, interactive user interfaces with React and TypeScript for displaying and editing metadata, improving the usability of document management workflows. I collaborated closely with stakeholders and developers, iterating on product design in Figma to align technical implementation with user and organizational needs.",
+    }
     {
       logo: "https://i.ibb.co/cxJmZ9W/We-Send-3.png",
       logoAlt: "We Send Hope Logo",
