@@ -86,11 +86,10 @@ export default function SkillsBlock() {
     { name: "Web Accessibility", percentage: 50, category: "Design" },
     { name: "Figma", percentage: 50, category: "Design" },
     
+    { name: "Team Collaboration", percentage: 90, category: "Soft Skills" },
     { name: "Project Management", percentage: 90, category: "Soft Skills" },
     { name: "Analytical Thinking", percentage: 75, category: "Soft Skills" },
-    { name: "Team Collaboration", percentage: 90, category: "Soft Skills" },
     { name: "Attention to Detail", percentage: 80, category: "Soft Skills" },
-    { name: "Self Motivation", percentage: 65, category: "Soft Skills" },
   ]
 
   const groupedSkills = skills.reduce(
