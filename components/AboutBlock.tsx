@@ -1,3 +1,5 @@
+import React from "react";
+
 export default function AboutBlock() {
   return (
     <div className="notion-block">
