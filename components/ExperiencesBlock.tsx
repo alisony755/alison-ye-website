@@ -32,7 +32,7 @@ const ExperienceCard = ({ logo, logoAlt, title, link, role, dates, description, 
 export default function ExperiencesBlock() {
   const experiences = [
      {
-      logo: "https://media.licdn.com/dms/image/v2/C4D0BAQFiepLgClowqQ/company-logo_400_400/company-logo_400_400/0/1650466196365/dailp_logo?e=1778716800&v=beta&t=ItxhwNxMfcCBaTncBXJXJzDZWevDZCHXs3mxJWTnA3k",
+      logo: "https://media.licdn.com/dms/image/v2/C4D0BAQFiepLgClowqQ/company-logo_200_200/company-logo_200_200/0/1650466196365/dailp_logo?e=1778716800&v=beta&t=ItxhwNxMfcCBaTncBXJXJzDZWevDZCHXs3mxJWTnA3k",
       logoAlt: "DAILP logo",
       title: "Digital Archive of Indigenous Language Persistence (DAILP)",
       link: "https://dailp.northeastern.edu/",
@@ -43,7 +43,7 @@ export default function ExperiencesBlock() {
      color: "#4ECDC4",
      },
     {
-      logo: "https://media.licdn.com/dms/image/v2/C4D0BAQFiepLgClowqQ/company-logo_400_400/company-logo_400_400/0/1650466196365/dailp_logo?e=1778716800&v=beta&t=ItxhwNxMfcCBaTncBXJXJzDZWevDZCHXs3mxJWTnA3k",
+      logo: "https://media.licdn.com/dms/image/v2/C4D0BAQFiepLgClowqQ/company-logo_200_200/company-logo_200_200/0/1650466196365/dailp_logo?e=1778716800&v=beta&t=ItxhwNxMfcCBaTncBXJXJzDZWevDZCHXs3mxJWTnA3k",
       logoAlt: "DAILP logo",
       title: "Digital Archive of Indigenous Language Persistence (DAILP)",
       link: "https://dailp.northeastern.edu/",
