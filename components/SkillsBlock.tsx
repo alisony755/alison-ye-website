@@ -74,14 +74,18 @@ const SkillBar = ({ name, percentage, category }: SkillProps) => {
 
 export default function SkillsBlock() {
   const skills = [
-    { name: "Java", percentage: 80, category: "Programming" },
-    { name: "JavaScript", percentage: 70, category: "Programming" },
+    { name: "React", percentage: 85, category: "Programming" },
+    { name: "TypeScript", percentage: 80, category: "Programming" },
     { name: "Python", percentage: 80, category: "Programming" },
-    { name: "SQL", percentage: 60, category: "Programming" },
-    { name: "HTML & CSS", percentage: 85, category: "Design" },
+    { name: "Java", percentage: 75, category: "Programming" },
+    { name: "SQL", percentage: 70, category: "Programming" },
+    { name: "Rust", percentage: 65, category: "Programming" },
+
+    { name: "User Experience (UX) Design", percentage: 70, category: "Design" },
+    { name: "Usability Testing", percentage: 65, category: "Design" },
     { name: "Web Accessibility", percentage: 50, category: "Design" },
-    { name: "Figma", percentage: 40, category: "Design" },
-    { name: "React", percentage: 50, category: "Design" },
+    { name: "Figma", percentage: 50, category: "Design" },
+    
     { name: "Project Management", percentage: 90, category: "Soft Skills" },
     { name: "Analytical Thinking", percentage: 75, category: "Soft Skills" },
     { name: "Team Collaboration", percentage: 90, category: "Soft Skills" },
