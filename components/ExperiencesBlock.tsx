@@ -40,7 +40,7 @@ export default function ExperiencesBlock() {
       dates: "January 2026 - Present",
       description:
         "I am contributing to the expansion of the DAILP platform to support external partners, enabling institutions such as Western Carolina University to use the platform’s infrastructure to host and manage their own document collections. I redesigned the website homepage and implemented new UI components using React and TypeScript to improve usability and accessibility. I also presented system architecture decisions and metadata editing workflows at the CDS Student Showcase.",
-     color: "#45B7D1",
+     color: "#4ECDC4",
      },
     {
       logo: "https://media.licdn.com/dms/image/v2/C4D0BAQFiepLgClowqQ/company-logo_400_400/company-logo_400_400/0/1650466196365/dailp_logo?e=1778716800&v=beta&t=ItxhwNxMfcCBaTncBXJXJzDZWevDZCHXs3mxJWTnA3k",
@@ -51,6 +51,17 @@ export default function ExperiencesBlock() {
       dates: "July 2025 - December 2025",
       description:
         "During my co-op, I developed full-stack features for managing archival metadata by building and optimizing database queries using Rust and SQL. I implemented archival-standard, interactive user interfaces with React and TypeScript for displaying and editing metadata, improving the usability of document management workflows. I collaborated closely with stakeholders and developers, iterating on product design in Figma to align technical implementation with user and organizational needs.",
+      color: "#45B7D1",
+    },
+    {
+      logo: "https://s3.us-east-1.amazonaws.com/files.galaxydigital.com/4548/agency/99769.jpg?20230808202014?area=agency",
+      logoeAlt: "RISE Together Logo",
+      title: "RISE Together",
+      link: "https://www.risetogethermentor.org/",
+      role: "Student Mentor",
+      dates: "June 2025 - September 2025",
+      description:
+        "I mentored first-generation students through the college application process by helping them build balanced college lists based on academic goals, financial considerations, and location preferences. I provided detailed feedback on personal statement drafts, focusing on clarity, narrative structure, and effective storytelling. I also supported students in managing application timelines by coordinating early action and scholarship deadlines and helping them stay organized throughout the admissions process.",
       color: "#FF6B6B",
     },
     {
