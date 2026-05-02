@@ -11,6 +11,9 @@ export default function Footer() {
     message: "",
   })
 
+  // Get current year
+  const currentYear = new Date().getFullYear();
+  
   const handleSubmit = (e: FormEvent) => {
     e.preventDefault()
     // TODO: Implement form submission functionality
@@ -60,7 +63,7 @@ export default function Footer() {
         </a>
       </div>
 
-      <p style={{ textAlign: "center" }}>&copy; 2025 Alison Ye's Personal Website</p>
+      <p style={{ textAlign: "center" }}>&copy; {currentYear} Alison Ye's Personal Website</p>
     </footer>
   )
 }
