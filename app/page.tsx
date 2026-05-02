@@ -10,7 +10,7 @@ import ExperiencesBlock from "@/components/ExperiencesBlock"
 import ProjectsBlock from "@/components/ProjectsBlock"
 import MusicBlock from "@/components/MusicBlock"
 import AccessibilityMenu from "@/components/AccessibilityMenu"
-import Footer from "@/components/Footer"
+// import Footer from "@/components/Footer"
 
 export default function Home() {
   const [fontSize, setFontSize] = useState(16)
@@ -37,7 +37,7 @@ export default function Home() {
           <ExperiencesBlock />
           <ProjectsBlock />
           <MusicBlock />
-          <Footer />
+          {/* <Footer /> */}
         </div>
         <AccessibilityMenu
           increaseFontSize={increaseFontSize}
